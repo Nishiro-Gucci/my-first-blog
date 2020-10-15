@@ -19,7 +19,7 @@ h1,h2,h3,h4{
 }
 
 .date{
-  color: #667777;
+  color: #828282;
 }
 
 .save{
@@ -30,11 +30,11 @@ h1,h2,h3,h4{
   width:100%;
 }
 
-.top-menu:hover,.top-menu:visited{
+.top-menu,.top-menu:hover,.top-menu:visited{
   color: #ffffff;
-  float:right;
-  font-size: 52pt;
-  margin-right:20px;
+   float:right; */
+   font-size:26pt; */
+   margin-right:20px; */
 }
 
 .post{
@@ -42,5 +42,5 @@ h1,h2,h3,h4{
 }
 
 .post h2 a,.post h2 a:visited{
-  color: #233300;
+  color: #000000;
 }
